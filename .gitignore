@@ -1,0 +1,4 @@
+*.secret
+junk/*
+connect/connect
+createTable/createTable

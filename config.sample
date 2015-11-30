@@ -1,0 +1,2 @@
+export RETHINKDB_ADDR='localhost:28015'
+export RETHINKDB_DB='test'
